@@ -46,4 +46,4 @@
    <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 <br>
-![DevSJin's github stats](https://github-readme-stats.vercel.app/api?username=DevSJin&show_icons=true)
+[![DevSJin's github stats](https://github-readme-stats.vercel.app/api?username=DevSJin&show_icons=true)]
