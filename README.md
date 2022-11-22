@@ -41,13 +41,11 @@
 </p>
 
 <p align="center" display="inline-block">
-</p>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white">  
+   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+</p>
 <br>
-
 <div align=center>
-
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=DevSJin&show_icons=true)
-
+</div>
