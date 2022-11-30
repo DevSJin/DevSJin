@@ -3,7 +3,7 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href="https://devsjin.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Blog&logoColor=white"/></a>
+    <a href="https://devsjin.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat-square&logo=GitHub Blog&logoColor=white"/></a>
     <a href="https://www.notion.so/9666c4e5ea5b4d7d9554c8c081399cc4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevSJin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
